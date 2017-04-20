@@ -1,0 +1,17 @@
+.product-container {
+  border: solid 5px black;
+  background-color: #49d090;
+  color: white;
+
+  margin: 10px 100px;
+
+  padding: 70px;
+
+  border-radius: 10px;
+}
+
+h1 {
+  border: solid 2px blue;
+  width: 50%;
+  margin: 0 25% 0 25%;
+}
