@@ -8,10 +8,10 @@
   padding: 70px;
 
   border-radius: 10px;
+
+  font-family: 'Raleway', sans-serif;
 }
 
 h1 {
-  border: solid 2px blue;
-  width: 50%;
-  margin: 0 25% 0 25%;
+  font-family: 'Raleway', sans-serif;
 }
